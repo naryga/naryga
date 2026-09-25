@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Nathan Garza
 
 <!--
 **naryga/naryga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi!  I'm Nathan Garza.  I'm building _LOCKSTEP_ a set of Claude Code skills that serve as a complete set of Software Engineering tools to make it easier to build awesome, production ready code.  Right now I'm dogfooding the actual coding harness by building out a series of production ready apps.  it's language agnostic and has a full suite of testing and analytics to ensure quality.  At the moment I've got Go, Python Django and Ruby on Rails fully functional, with adapters for straight Python, Ruby and Rust in the pipeline!  I'm building a couple of awesome apps with it, and I can't wait to tell you all about them in the near future
